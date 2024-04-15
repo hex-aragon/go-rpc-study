@@ -132,3 +132,4 @@ func (s *segment) Close() error {
 
 	return nil 
 }
+
